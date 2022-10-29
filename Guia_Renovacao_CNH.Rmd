@@ -1,0 +1,385 @@
+---
+title: "RENOVAÇÃO DE CNH: UM GUIA PRÁTICO"
+author:
+- name: MÁRIO DIEGO VALENTE
+  affiliation: DETRAN-PA
+  email: mario.valente@detran.pa.gov.br
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_document: 
+#    code_download: yes
+    highlight: textmate
+    number_sections: yes
+    theme: cerulean
+    toc: yes
+    toc_depth: 6
+    toc_float:
+      collapsed: yes
+      smooth_scroll: yes
+    keep_md: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '6'
+institute:
+abstract: " Este relatório foi planejado para gerar informações e contribuir para um melhor planejamento e orientação técnica sobre o passo a passo no processo de renovação da Carteira Nacional de Habilitação(CNH), com bases em resoluções do CONTRAN, as atualizaçãoes quem trouxeram a Lei nº 14.071, os modelos de suspensão do Direito de Dirigir, e os artigos complementares do CTB."
+---
+
+
+<style>
+body{text-align: justify}
+</style>
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+
+# **Carteira Nacional de Habilitação(CNH)**
+## **O Que è a CNH?**
+
+- A CNH é a sigla de Carteira Nacional de Habilitação, documento obrigatório para conduzir um veículos automotores e elétricos no território nacional.
+- Segundo o CTB - [**Lei nº9.503/1997**](http://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm), para poder ter a CNH são requisito obrigatórios (**Artigo 140**):
+  - **Ser Penalmente Imputável**, ou seja, alguém que responda pelos seus atos perante a Lei;
+  - **Saber Ler e Escrever**, ou seja, não depende de grau de escolaridade, basta ser alfabetizado;
+  - **Ter 18 anos Completo**;
+  - **Possuir Documento de Identificação**: podendo ser qualquer documento de identificação emitido por Órgão Público que tenha fé pública (RG/ Carteira de Trabalho, Passaporte, ect.);
+  - **Possuir Cadastro de Pessoa Física** (CPF);
+  - **Ter Cursado a Carga Horária e Ser Aprovado** em todos os Teste do Processo de habilitação:
+    - Aula Teórica de 45 horas;
+    - Aula Prática de Direção Veicular de 20 horas;
+    - Exame de Aptidão Físico;
+    - Exame Psicotécnico;
+    - Prova Teórica;
+    - Prova Prática de Direção Veicular;
+  - **Fazer o Cadastro Biométrico em um DETRAN**
+
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+
+### **É Possível Tirar a CNH antes dos 18 anos?**
+
+- No Brasil não é possível tirar a CNH antes dos 18 anos.
+
+- Porém, existem Projetos de Lei que sugerem alterar essa regra. Um deles é o [**PL nº3973/2019**](https://www25.senado.leg.br/web/atividade/materias/-/materia/137674), que pretende alterar o Código de Trânsito Brasileiro para autorizar a emissão de Permissão para Dirigir (PPD) a partir dos dezesseis anos de idade.
+
+- Tenho 16 anos de idade e já sou emancipado. Posso tirar minha CNH? A resposta é **NÃO**
+  - A legislação diz que o candidato tem que ser **Penalmente Imputável**, e a maioridade que se adquire quando com a emancipação não é uma **Maioridade Penal**, mas uma **Maioridade Civil**.
+  - Nesse caso, mesmo sendo civilmente maior de idade, a pessoa não é penalmente maior de idade, e por este motivo não é penalmente imputável.
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+
+## **Quais os Tipos de CNH**?
+Existem vários tipos de CNH em vigor no Brasil com destaque para os ultimos 4 modelos que estavam e/ou estão em vigor. 
+
+- Modelo Emitido de 30 de março de 2006 até dezembro de 2016;
+  - [**Resolução do CONTRAN nº192/2006**.](http://www.sgc.goias.gov.br/upload/arquivos/2013-11/resolucao_192_06.pdf)
+- Modelo Emitido de janeiro de 2017 até junho de 2019;
+  - [**Resolução do CONTRAN nº598/2016**.](https://www.gov.br/infraestrutura/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao59820162.pdf)
+- Modelo Emitido a partir de julho de 2019.
+  - [**Resolução do CONTRAN nº775/2019**.](https://www.gov.br/infraestrutura/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao7752019.pdf)
+- Modelo Emitido a partir de dezembro de 2021.
+  - [**Resolução do CONTRAN nº886/2021**.](https://www.gov.br/infraestrutura/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8862021.pdf)
+
+
+
+### **Mudanças Siginificantes na CNH**
+#### **Primeira Mudança**
+
+- Apresentada com novas cores e itens para dificultar a falsificação, o modelo apresentado atendia à nova **[Resolução nº598/2016](http://antigo.infraestrutura.gov.br/images/Resolucoes/Resolucao59820162.pdf)** do Contran e foi a primeira das modificações apresentadas.
+
+- Em maio 2017, a CNH recebeu um sistema de código que permitia ser lido por câmeras de celular, o **QR Code**. A medida atendi à **[Resolução n°668/2017](https://www.gov.br/infraestrutura/pt-br/assuntos/transito/conteudo-contran/resolucoes/resolucao6682017.pdf)**, na qual consta que a CNH deverá, a partir de fevereiro de 2018, possuir códigos de barras bidimensionais, gerados a partir de algoritmo específico, de propriedade do Denatran, armazenando todas as informações contidas no documento.
+
+
+#### **Segunda Mudança**
+
+- A nova CNH 2018 é chamada de **Carteira Nacional de Habilitação Eletrônica**, ou **CNH-e**. Ela está regulamentada pela [**Portaria Nº 184/2017**](https://www.gov.br/infraestrutura/pt-br/assuntos/transito/arquivos-senatran/portarias/2017/portaria1842017.pdf) do Denatran.
+
+
+#### **Terceira Mudança**
+
+- No dia 13 de dezembro de 2021, o Conselho Nacional de Trânsito (Contran) publicou a [**Resolução do CONTRAN nº886/2021**.](https://www.gov.br/infraestrutura/pt-br/assuntos/transito/conteudo-contran/resolucoes/Resolucao8862021.pdf), que apresenta a nova Carteira Nacional de Habilitação (CNH).
+
+- O modelo vai entrar em vigor a partir de 1º de junho de 2022 e substituirá a atual carteira. Porém, a troca não será obrigatória e ocorrerá apenas para novas emissões.
+
+- A CNH atualizada adota novo visual e continua com o **QR Code**. Outro detalhe é uma **Tabela com os Veículos** que o motorista pode conduzir. A Carteira Nacional de Habilitação poderá ser expedida de forma física ou digital.
+
+
+#### **Resumo**
+
+- Estas mudanças permitem, portanto, que o agente de fiscalização de trânsito ou qualquer pessoa, ao fazer a leitura do código, tenha acesso aos dados do motorista, além daqueles apresentados pelo documento de papel.
+
+- Isto irá ajudar em caso de falsificações em que a foto, por exemplo, for modificada na CNH.
+
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+## **Quais as Categorias da CNH**?
+
+De acordo com o CTB (**Artigo 143**), as categorias da CNH são:
+
+
+- **Categoria A** : Condutor de veículo motorizado de duas ou três rodas, com ou
+sem carro lateral, com mais que 50 de cilindrada;
+- **Categoria B** : Condutor de veículos de quatro rodas, com até 3,5 toneladas de
+peso bruto total e capacidade para até oito passageiros, além do motorista –
+nessa categoria ainda é permitido acoplar reboques e semirreboques, desde que
+não ultrapasse o peso ou lotação máximos.
+- **Categoria C** : Nessa categoria, os motoristas podem dirigir todos os tipos de
+automóveis da categoria B, e também os veículos de carga, com mais de 3,5
+toneladas de peso bruto total, como caminhões, tratores, máquinas agrícolas e de
+movimentação de carga.
+- **Categoria D** : Com a carteira D, é possível dirigir veículos para o transporte de
+passageiros que acomodam mais de 8 passageiros. Aqui, entram os ônibus,
+micro-ônibus e vans além dos permitidos nas categorias B e C.
+- **Categoria E** : O condutor com a CNH da categoria E pode conduzir todos os
+veículos inclusos nos tipos B, C e D, além de veículos com unidades acopladas
+que excedam 6 toneladas, como as carretas e caminhões com reboques e
+semirreboques articulados. 
+
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+
+## **Regras de Manter a CNH Dentro da Lei?**
+
+- Não ultrapassar o limite de pontos estipulados (20/30/40);
+- Não tomar Multas Auto Suspensivas (2 a 8 meses) tais como:
+  - Andar de Motocicleta Sem Capacete;
+  - Recusar a Fazer o Teste do Etilômetro ou qualquer outro exame clínico;
+  - Dirigir acima de 50% da Velocidade Permitida;
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+# **Processo de Renovação da CNH** 
+## **O Que é a Renovação da CNH?**
+
+- Renovação da CNH consiste no processo de solicitação de uma nova carteira
+nacional de habilitação para os motoristas do estado de moradia do condutor;
+- O procedimento de Renovação deve ser realizado obrigatoriamente, quando a
+CNH:
+  - Estiver perto de Vencer;
+  - Estiver Vencida a mais de 30 dias;
+  - Quando Precisa Incluir novas informações no **Campo Observação** tais como exemplo;
+    - **EAR** (Exerce Atividade Remunerada);
+    - **A** (Obrigatório uso de lentes corretivas);
+    - **B** (Obrigatório uso de próteses auditivas);
+    - **C** (Obrigatório uso de acelerador à esquerda);
+  - Quando Precisa Incluir os Cursos Especializados e Obrigatórias conforme a [**Resolução Nº 789/2020**](https://www.in.gov.br/en/web/dou/-/resolucao-n-789-de-18-de-junho-de-2020-263185648):
+    - **CETE** (Curso de Transporte de Escolares);
+    - **CETCP** (Curso de Transporte Coletivo de Passageiros);
+    - **CETVE** (Curso de Transporte de Veículos de Emergência);
+    - **CETPP** (Curso de Transporte de Produtos Perigosos);
+    - **CETCI** (Curso de Transporte de Carga Indivisível);
+    - **CEMTX** (Curso de Transporte Remunerado de Passageiros -**Mototaxista**);
+    - **CEMTF** (Curso de Transporte Remunerado de Mercadorias- **Motofrete**);
+  - Vale ressaltar que o motorista ainda pode usar a CNH vencida, caso o documento
+não tenha ultrapassado 30 dias após a data de vencimento;
+  
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+## **Quem Precisa Realizar a Renovação da CNH?**
+
+- Todos os motoristas com CNH emitidas nos 26 Estados e Distrito Federal devem
+renovar o documento quando necessário, com validade em âmbito Nacional.
+- E o ano de 2021 trouxe novidades para o processo de renovação da CNH – a **[Lei 14.071/2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14071.htm)** que entrou em vigor a partir de 12 de abril, alterou pontos
+importantes.
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+## **Prazo de Validade do Exame de Renovação da CNH**
+
+Com a alteração no Código de Trânsito Brasileiro (CTB) **[Lei 14.071/2020](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14071.htm)**, o exame de aptidão física e
+mental deve ser feito agora de acordo com os seguintes prazos:
+
+- A cada **10 anos**, para condutores com Idade de **18 a 50 anos**;
+- A cada **5 anos**, para condutores com Idade de **51 a 70 anos**;
+- A cada **3 anos**, para condutores com Idade de **71 anos em diante**.
+
+
+Esses são os prazos padrões estabelecidos pelo CTB, contudo o médico pode Reduzir a
+Validade do Exame Médico, de acordo com as condições físicas e mentais do motorista.
+
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+
+## **Onde Realizar a Renovação da CNH**
+
+A renovação da CNH pode ser feita de três maneiras:
+
+- Pela internet (a partir do site do Detran-Pa);
+- Utilizando o aplicativo do Detran-Pa;
+- Presencialmente, indo até aos Centro de Formação de Codnutores (CFC) ou unidades de atendimento do Detran-Pa.
+
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+### **Renovação via Internet**
+
+- Acesse o site do DETRAN-PA (www.detran.pa.gov.br), clique em
+“**CONDUTORES**”> solicitar renovação da carteira de Motorista;
+- Clique no Botão “**Solicitar**”;
+- Informe seu **CPF** e solicite sua renovação da CNH;
+- Será gerado um **Boleto** de Renovação da CNH. Basta pagá-lo no Banco
+credenciado(**Banpará**);
+- Realize a Captura das suas Digitais (**BIOMETRIA**), registre uma Foto e faça uma
+assinatura digital;
+- Basta agendar o **Exame de Renovação da CNH**;
+- Agende Também os **Exames Psicotécnicos e/ou Toxicológicos**, caso necessário;
+- Faça os exames.
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+### **Renovação via Unidade de Atendimento do DETRAN-PA**
+
+- Dirija-se até uma unidade de atendimento do Detran na sua região;
+- Agende um Horário para atendimento, o procedimento pode ser feito pelo site do
+Detran-Pa;
+- Apresente **Documento Oficial com foto** e **CPF**. São válidos os seguintes
+documentos:
+  - **CNH** com foto;
+  - **RG** (emitidas em até 10 anos);
+  - **Carteira de Trabalho** (CT);
+  - **Previdência Social** (CTPS);
+  - **Carteira de Órgãos ou Conselho de Classe** (OAB, CRM, CREA, etc.);
+  - **Certificado Militar** (reservista);
+  - **Passaporte** (emitido no Brasil);
+  - **Policia Militar**;
+  - **Corpo de Bombeiros**;
+  - **Comando Militar** (Aeronáutica/Exército/Marinha);
+- Leve um Comprovante de Endereço;
+- Solicite a renovação da CNH;
+- Será gerado um Boleto de Renovação da CNH. Basta pagá-lo no Banco
+credenciado(Banpará);
+- Realize a Captura das suas Digitais (BIOMETRIA), registre uma Foto e faça uma
+assinatura digital;
+- Basta agendar o Exame de Renovação da CNH;
+- Agende Também os exames de EAR (Exerce Atividade Remunerada) e/ou
+Toxicológico, caso necessário;
+- Faça os exames.
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+
+## **Quais os Valores pra Renovação da CNH?**
+
+De acordo com a Lei de Taxas do Detran-Pa [**Lei nº9.158/2021**)](https://www.legisweb.com.br/legislacao/?id=407620), o valor de renovação da CNH
+é de:
+
+- **R$ 85,70** são para a emissão do papel moeda da CNH;
+- **R$ 65,75** são para o exame de aptidão física e mental;
+- **R$ 106,30** são para o exame de avaliação psicológica, apenas quando solicitado
+pelo médico ou quando o motorista exerce atividade remunerada com o veículo;
+- **R$ 150,00** são para o exame toxicológico, quando nas categorias **C, D ou E** em
+laboratórios credenciados pelo Denatran;
+QUAL.
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+
+## **Quais os Problemas em Não Renovar a CNH**
+
+- Renovação da CNH é um compromisso a todos os motorista e é obrigatório para
+conduzir veículos automotores em qualquer Estado do Brasil.
+- E não estar em dias a CNH, gera consequências negativas estabelecidas
+pelo (CBT - [**Lei nº9.503/1997**](http://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm)) **artigo 162**:
+  - Dirigir um veículo com a CNH **Vencida a mais de 30 dias** corresponde à
+uma **Infração Gravíssima**, cabendo uma multa no valor de **R$293,47** e
+**Sete Pontos** no prontuário do condutor.
+- Medida Administrativa com **Recolhimento da CNH** e **Retenção do
+Veículo** até que apresente um condutor habilitado para dirigi-lo;
+
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+## **Perdi o Prazo pra Renovar a CNH**
+
+- Deixei de renovar da CNH por um prazo de **Até 4 anos e 11 meses**, fique
+tranquilo, ainda há tempo de regularizar, utilizando uma das opções explicadas
+anteriormente.
+- Se a CNH estiver vencida Há **+ de 5 anos**, será necessário passar por um Curso
+de Atualização de 15 horas-aula, como previsto na **[Resolução Nº 789/2020](https://www.in.gov.br/en/web/dou/-/resolucao-n-789-de-18-de-junho-de-2020-263185648)**.
+
+
+
+<div class = "progress">
+  <div class = "progress-bar" style = "width: 100%;"> </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
